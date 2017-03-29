@@ -1,0 +1,9 @@
+/Users/bholt/dev/dotnet-core-postgresql-playground/bin/Debug/netcoreapp1.1/dotnet-core-postgresql-playground.deps.json
+/Users/bholt/dev/dotnet-core-postgresql-playground/bin/Debug/netcoreapp1.1/dotnet-core-postgresql-playground.runtimeconfig.json
+/Users/bholt/dev/dotnet-core-postgresql-playground/bin/Debug/netcoreapp1.1/dotnet-core-postgresql-playground.runtimeconfig.dev.json
+/Users/bholt/dev/dotnet-core-postgresql-playground/obj/Debug/netcoreapp1.1/dotnet-core-postgresql-playground.AssemblyInfo.cs
+/Users/bholt/dev/dotnet-core-postgresql-playground/bin/Debug/netcoreapp1.1/dotnet-core-postgresql-playground.dll
+/Users/bholt/dev/dotnet-core-postgresql-playground/bin/Debug/netcoreapp1.1/dotnet-core-postgresql-playground.pdb
+/Users/bholt/dev/dotnet-core-postgresql-playground/obj/Debug/netcoreapp1.1/dotnet-core-postgresql-playground.dll
+/Users/bholt/dev/dotnet-core-postgresql-playground/obj/Debug/netcoreapp1.1/dotnet-core-postgresql-playground.pdb
+/Users/bholt/dev/dotnet-core-postgresql-playground/bin/Debug/netcoreapp1.1/appsettings.json
